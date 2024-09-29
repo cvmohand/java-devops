@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/java-devops/static/css/main.d277fd1a.css",
-    "main.js": "/java-devops/static/js/main.af6af5d7.js",
+    "main.js": "/java-devops/static/js/main.8eeb7f03.js",
     "static/js/453.c78c3ed0.chunk.js": "/java-devops/static/js/453.c78c3ed0.chunk.js",
-    "static/media/angular.png": "/java-devops/static/media/angular.a2a81cacca945a607e69.png",
-    "static/media/java.png": "/java-devops/static/media/java.2d8d9e86c0ca94c0ced1.png",
-    "static/media/docker.png": "/java-devops/static/media/docker.0ce9ab52dd7d87cf94b8.png",
-    "static/media/database.png": "/java-devops/static/media/database.34f9e778e0715ab96a03.png",
-    "static/media/kubernetes.png": "/java-devops/static/media/kubernetes.6349899991738d9e35a5.png",
-    "static/media/bash.png": "/java-devops/static/media/bash.1906cbe8cf6ca9e0e2ed.png",
-    "static/media/kafka.png": "/java-devops/static/media/kafka.86c938e1e0ed026556a8.png",
+    "static/media/2.png": "/java-devops/static/media/2.a2a81cacca945a607e69.png",
+    "static/media/1.png": "/java-devops/static/media/1.2d8d9e86c0ca94c0ced1.png",
+    "static/media/4.png": "/java-devops/static/media/4.0ce9ab52dd7d87cf94b8.png",
+    "static/media/3.png": "/java-devops/static/media/3.34f9e778e0715ab96a03.png",
+    "static/media/5.png": "/java-devops/static/media/5.6349899991738d9e35a5.png",
+    "static/media/7.png": "/java-devops/static/media/7.1906cbe8cf6ca9e0e2ed.png",
+    "static/media/6.png": "/java-devops/static/media/6.86c938e1e0ed026556a8.png",
     "index.html": "/java-devops/index.html",
     "main.d277fd1a.css.map": "/java-devops/static/css/main.d277fd1a.css.map",
-    "main.af6af5d7.js.map": "/java-devops/static/js/main.af6af5d7.js.map",
+    "main.8eeb7f03.js.map": "/java-devops/static/js/main.8eeb7f03.js.map",
     "453.c78c3ed0.chunk.js.map": "/java-devops/static/js/453.c78c3ed0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d277fd1a.css",
-    "static/js/main.af6af5d7.js"
+    "static/js/main.8eeb7f03.js"
   ]
 }
