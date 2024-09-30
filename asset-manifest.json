@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/java-devops/static/css/main.afac132d.css",
+    "main.css": "/java-devops/static/css/main.198bd4dd.css",
     "main.js": "/java-devops/static/js/main.effe8112.js",
     "static/js/453.c78c3ed0.chunk.js": "/java-devops/static/js/453.c78c3ed0.chunk.js",
     "static/media/2.png": "/java-devops/static/media/2.a2a81cacca945a607e69.png",
@@ -11,12 +11,12 @@
     "static/media/7.png": "/java-devops/static/media/7.1906cbe8cf6ca9e0e2ed.png",
     "static/media/6.png": "/java-devops/static/media/6.86c938e1e0ed026556a8.png",
     "index.html": "/java-devops/index.html",
-    "main.afac132d.css.map": "/java-devops/static/css/main.afac132d.css.map",
+    "main.198bd4dd.css.map": "/java-devops/static/css/main.198bd4dd.css.map",
     "main.effe8112.js.map": "/java-devops/static/js/main.effe8112.js.map",
     "453.c78c3ed0.chunk.js.map": "/java-devops/static/js/453.c78c3ed0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afac132d.css",
+    "static/css/main.198bd4dd.css",
     "static/js/main.effe8112.js"
   ]
 }
