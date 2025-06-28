@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="300" height="300">
+  <defs>
+    <!-- Gradient principal de la lame -->
+    <linearGradient id="gradY" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:white; stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#434a58; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#282c34; stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Animation de lumière -->
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="transparent" />
+      <stop offset="50%" stop-color="white" stop-opacity="0.9">
+        <animate attributeName="offset" values="-1; 1" dur="2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="transparent" />
+    </linearGradient>
+
+    <!-- Masque de lumière animé -->
+    <mask id="blade-mask">
+      <rect x="0" y="0" width="500" height="500" fill="white" />
+      <rect x="0" y="0" width="500" height="500" fill="url(#shine)" />
+    </mask>
+  </defs>
+
+  <!-- Cercle de fond -->
+  <circle cx="250" cy="250" r="240" fill="#282c34" stroke="#f4f4f4" stroke-width="10"></circle>
+
+  <!-- Lame principale avec effet animé -->
+  <path d="M170 145 H205 L250 215 L295 145 H330 L265 245 L250 355 L235 245 Z"
+        fill="url(#gradY)"
+        mask="url(#blade-mask)" />
+
+  <!-- Parties latérales fixes -->
+  <path d="M185 350 V210 H185 L215 270 V350 Z" fill="whitesmoke" mask="url(#blade-mask)" ></path>
+  <path d="M315 350 V210 H315 L285 270 V350 Z" fill="whitesmoke" mask="url(#blade-mask)" />
+</svg>

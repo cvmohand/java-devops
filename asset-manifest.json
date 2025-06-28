@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/java-devops/static/css/main.41a3ffb0.css",
-    "main.js": "/java-devops/static/js/main.271f542c.js",
+    "main.css": "/java-devops/static/css/main.c9d4f039.css",
+    "main.js": "/java-devops/static/js/main.80b74a6b.js",
     "static/js/453.c78c3ed0.chunk.js": "/java-devops/static/js/453.c78c3ed0.chunk.js",
     "static/media/2.png": "/java-devops/static/media/2.a2a81cacca945a607e69.png",
     "static/media/1.png": "/java-devops/static/media/1.2d8d9e86c0ca94c0ced1.png",
@@ -10,14 +10,14 @@
     "static/media/5.png": "/java-devops/static/media/5.6349899991738d9e35a5.png",
     "static/media/7.png": "/java-devops/static/media/7.1906cbe8cf6ca9e0e2ed.png",
     "static/media/6.png": "/java-devops/static/media/6.86c938e1e0ed026556a8.png",
-    "static/media/my-logo-2025.svg": "/java-devops/static/media/my-logo-2025.e5daa189ce907d93847c55f5228a5a34.svg",
+    "static/media/my-logo-2025.svg": "/java-devops/static/media/my-logo-2025.2c370490c62ad431dc3b085dc13ecf87.svg",
     "index.html": "/java-devops/index.html",
-    "main.41a3ffb0.css.map": "/java-devops/static/css/main.41a3ffb0.css.map",
-    "main.271f542c.js.map": "/java-devops/static/js/main.271f542c.js.map",
+    "main.c9d4f039.css.map": "/java-devops/static/css/main.c9d4f039.css.map",
+    "main.80b74a6b.js.map": "/java-devops/static/js/main.80b74a6b.js.map",
     "453.c78c3ed0.chunk.js.map": "/java-devops/static/js/453.c78c3ed0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41a3ffb0.css",
-    "static/js/main.271f542c.js"
+    "static/css/main.c9d4f039.css",
+    "static/js/main.80b74a6b.js"
   ]
 }
