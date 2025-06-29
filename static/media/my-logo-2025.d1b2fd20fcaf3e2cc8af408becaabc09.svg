@@ -3,8 +3,8 @@
     <!-- Gradient principal de la lame -->
     <linearGradient id="gradY" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:white; stop-opacity:1" />
-      <stop offset="60%" style="stop-color:#434a58; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#282c34; stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#434a58; stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#282c34; stop-opacity:0.1" />
     </linearGradient>
 
     <!-- Animation de lumière -->
