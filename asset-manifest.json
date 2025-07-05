@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/java-devops/static/css/main.a88c8a23.css",
-    "main.js": "/java-devops/static/js/main.87a0c054.js",
+    "main.css": "/java-devops/static/css/main.7e515752.css",
+    "main.js": "/java-devops/static/js/main.3944550d.js",
     "static/js/453.c78c3ed0.chunk.js": "/java-devops/static/js/453.c78c3ed0.chunk.js",
-    "static/media/2.png": "/java-devops/static/media/2.a2a81cacca945a607e69.png",
-    "static/media/4.png": "/java-devops/static/media/4.0ce9ab52dd7d87cf94b8.png",
-    "static/media/1_tinted.png": "/java-devops/static/media/1_tinted.4c82756d83b3f30765f3.png",
-    "static/media/5.png": "/java-devops/static/media/5.6349899991738d9e35a5.png",
-    "static/media/3_tinted.png": "/java-devops/static/media/3_tinted.9fccca624116260cd8af.png",
-    "static/media/7_tinted.png": "/java-devops/static/media/7_tinted.352b164e0904677853ac.png",
-    "static/media/6.png": "/java-devops/static/media/6.86c938e1e0ed026556a8.png",
+    "static/media/7-bash.svg": "/java-devops/static/media/7-bash.39bcac0c364c242de1a4.svg",
+    "static/media/2-spring.svg": "/java-devops/static/media/2-spring.68b277f1fcf707c848e1.svg",
+    "static/media/9-kafka.svg": "/java-devops/static/media/9-kafka.66f6f7a3f2d969ef8cdb.svg",
+    "static/media/8-2-mysql.svg": "/java-devops/static/media/8-2-mysql.88040f1edcad2f3917fd.svg",
+    "static/media/8-1-postgresql.svg": "/java-devops/static/media/8-1-postgresql.34a69f7a10ebced28aeb.svg",
+    "static/media/7-linux.svg": "/java-devops/static/media/7-linux.2e6682f4e00e4fb50de9.svg",
+    "static/media/6-docker1.svg": "/java-devops/static/media/6-docker1.0c00c1faa5595970d12f.svg",
+    "static/media/6-kubernetes.svg": "/java-devops/static/media/6-kubernetes.e1b17c2620a8e13d0cbc.svg",
+    "static/media/1-java.svg": "/java-devops/static/media/1-java.d9a3b5e5d1e4a139ad94.svg",
+    "static/media/8-0-sql.svg": "/java-devops/static/media/8-0-sql.d4e9379424a5c2f8864e.svg",
+    "static/media/7-aws.svg": "/java-devops/static/media/7-aws.bf68ee4c0ec211ee1648.svg",
+    "static/media/6-helm.svg": "/java-devops/static/media/6-helm.d4375907dd7bbd5c038f.svg",
+    "static/media/7-ubuntu.svg": "/java-devops/static/media/7-ubuntu.67b8957507ee6cc9dc0b.svg",
     "index.html": "/java-devops/index.html",
+    "static/media/3-angular.svg": "/java-devops/static/media/3-angular.cd66e46b8e6de962fe3e.svg",
     "static/media/my-logo-2025.svg": "/java-devops/static/media/my-logo-2025.d1b2fd20fcaf3e2cc8af408becaabc09.svg",
-    "main.a88c8a23.css.map": "/java-devops/static/css/main.a88c8a23.css.map",
-    "main.87a0c054.js.map": "/java-devops/static/js/main.87a0c054.js.map",
+    "static/media/5-gitlab.svg": "/java-devops/static/media/5-gitlab.83024fc56729f8edf9b1.svg",
+    "static/media/5-h-github.svg": "/java-devops/static/media/5-h-github.45b3ff7af0a27d010e55.svg",
+    "static/media/4-0material.svg": "/java-devops/static/media/4-0material.224e3dc1f02b4766bd2c.svg",
+    "static/media/4-figma.svg": "/java-devops/static/media/4-figma.19c8dc62c4f71e64f657.svg",
+    "main.7e515752.css.map": "/java-devops/static/css/main.7e515752.css.map",
+    "main.3944550d.js.map": "/java-devops/static/js/main.3944550d.js.map",
     "453.c78c3ed0.chunk.js.map": "/java-devops/static/js/453.c78c3ed0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a88c8a23.css",
-    "static/js/main.87a0c054.js"
+    "static/css/main.7e515752.css",
+    "static/js/main.3944550d.js"
   ]
 }
