@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/java-devops/static/css/main.7e515752.css",
-    "main.js": "/java-devops/static/js/main.3944550d.js",
+    "main.css": "/java-devops/static/css/main.2bd1ef6d.css",
+    "main.js": "/java-devops/static/js/main.85c96107.js",
     "static/js/453.c78c3ed0.chunk.js": "/java-devops/static/js/453.c78c3ed0.chunk.js",
     "static/media/7-bash.svg": "/java-devops/static/media/7-bash.39bcac0c364c242de1a4.svg",
     "static/media/2-spring.svg": "/java-devops/static/media/2-spring.68b277f1fcf707c848e1.svg",
@@ -23,12 +23,12 @@
     "static/media/5-h-github.svg": "/java-devops/static/media/5-h-github.45b3ff7af0a27d010e55.svg",
     "static/media/4-0material.svg": "/java-devops/static/media/4-0material.224e3dc1f02b4766bd2c.svg",
     "static/media/4-figma.svg": "/java-devops/static/media/4-figma.19c8dc62c4f71e64f657.svg",
-    "main.7e515752.css.map": "/java-devops/static/css/main.7e515752.css.map",
-    "main.3944550d.js.map": "/java-devops/static/js/main.3944550d.js.map",
+    "main.2bd1ef6d.css.map": "/java-devops/static/css/main.2bd1ef6d.css.map",
+    "main.85c96107.js.map": "/java-devops/static/js/main.85c96107.js.map",
     "453.c78c3ed0.chunk.js.map": "/java-devops/static/js/453.c78c3ed0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e515752.css",
-    "static/js/main.3944550d.js"
+    "static/css/main.2bd1ef6d.css",
+    "static/js/main.85c96107.js"
   ]
 }
